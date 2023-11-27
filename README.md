@@ -14,6 +14,9 @@ Investigate and employ appropriate pre-trained DeOldify models or train custom m
 Experiment with different colorization strategies, such as grayscale-guided or reference-based colorization, to achieve accurate and visually pleasing results.
 Evaluate the colorization performance by comparing the colorized images with the original colored images or ground truth data, if available.
 
+
+![Screenshot (6)](https://github.com/Shivanifeb/Image-Processing-using-GAN/assets/52971188/4726bec8-5a7b-457c-ae55-670f6dd96b73)
+
 The list of framework and libraries used are as follows:
 Python
 Yolov5
